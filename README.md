@@ -1,3 +1,4 @@
+
 Creating a movie website involves displaying information about movies, such as titles, posters, descriptions, and possibly trailers. Here's a basic overview of how you can implement it using HTML, CSS, and JavaScript:
 
 1.HTML (movie.html):
@@ -17,6 +18,7 @@ Dynamically load movie data and populate the website with movie information.
 ![Screenshot 2024-01-28 143515](https://github.com/ANAND1304/itsmovietime/assets/130790148/a2d67018-9e3e-4734-af52-d21bedbcd904)
 
 4.FINAL RESULT:
-![Screenshot 2024-01-28 142025](https://github.com/ANAND1304/itsmovietime/assets/130790148/69e042ce-0f13-4dc5-ae31-1d3b507a9b9d)
+![Screenshot 2024-01-28 142005](https://github.com/ANAND1304/itsmovietime/assets/130790148/82f16e17-41ca-44e1-b709-a6aa88d7a1dd)
+
 
 
