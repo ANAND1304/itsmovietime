@@ -19,6 +19,8 @@ Dynamically load movie data and populate the website with movie information.
 
 4.FINAL RESULT:
 ![Screenshot 2024-01-28 142005](https://github.com/ANAND1304/itsmovietime/assets/130790148/82f16e17-41ca-44e1-b709-a6aa88d7a1dd)
+![Screenshot 2024-01-28 144030](https://github.com/ANAND1304/itsmovietime/assets/130790148/70f7438e-cf00-454e-9c5f-75db332c4575)
+
 
 
 
